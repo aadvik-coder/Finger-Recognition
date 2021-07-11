@@ -1,0 +1,41 @@
+body
+{
+  color: white;
+  background: linear-gradient(#4287f5 0%, #6042f5 50%, #9e42f5 100%);
+}
+span
+{
+  font-size: 30px;
+}
+#camera , #result
+{
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px; 
+}
+#finger_name ,#finger_name2  
+{
+  color: black;
+}
+.finger_name
+{
+  font-size: 40px;
+}
+.emoji
+{
+  font-size:60px;
+}
+.heading{
+  font-size: 25px;
+  border-radius: 10px;
+  letter-spacing: 10px;
+  font-weight: bold;
+}
+
+h3{
+  width: 600px;
+}
+
+.emojis{
+  font-size: 60px;
+}
